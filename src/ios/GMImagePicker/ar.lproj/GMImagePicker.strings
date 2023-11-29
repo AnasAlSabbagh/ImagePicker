@@ -1,0 +1,33 @@
+/* Cancel */
+"picker.navigation.cancel-button" = "إلغاء";
+
+/* Done */
+"picker.navigation.done-button" = "تم";
+
+/* Navigation bar default title */
+"picker.navigation.title" = "GMImagePicker";
+
+/* %@ Items Selected */
+"picker.selection.multiple-items" = "%@ عنصر مختار";
+
+/* %@ Photos Selected */
+"picker.selection.multiple-photos" = "%@ صور مختارة";
+
+/* %@ Videos Selected */
+"picker.selection.multiple-videos" = "%@ فيديوهات مختارة";
+
+/* 1 Photo Selected */
+"picker.selection.single-photo" = "1 صورة مختارة";
+
+/* 1 Video Selected */
+"picker.selection.single-video" = "1 فيديو مختار";
+
+/* All photos */
+"picker.table.all-photos-label" = "فيلم كميرة";
+
+/* Smart Albums */
+"picker.table.smart-albums-header" = "مجموعات ذكية";
+
+/* Albums */
+"picker.table.user-albums-header" = "المجموعات";
+
