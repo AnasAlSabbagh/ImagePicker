@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multi_app_name">إختيار صور</string>
+    <string name="free_version_label">نسخة مجانية - صور متبقية: %d</string>
+    <string name="error_database">حدث خطأ أثناء فتح قاعدة بيانات الصور. الرجاء الإبلاغ عن المشكلة.</string>
+    <string name="requesting_thumbnails">الرجاء الإنتظار، جاري طلب الصور المصغرة</string>
+    <string name="multi_image_picker_processing_images_title">جاري معالجة الصور</string>
+    <string name="multi_image_picker_processing_images_message">ممكن ان تأخذ بعض الوقت</string>
+    <string name="discard" translatable="false">إلغاء</string>
+    <string name="done" translatable="false">تم</string>
+    <string name="max_count_photos_title">الحد الأقصى %d من الصور</string>
+    <string name="max_count_photos_message">يمكنك فقط تحديد %d صور في المرة الواحدة.</string>
+</resources>
